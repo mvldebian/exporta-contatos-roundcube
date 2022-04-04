@@ -19,6 +19,7 @@ chmod +x exporta-contatos.py
 3 - Instale as dependências do script
 
 apt-get install python3-pip
+
 pip3 install mysql-connector
 
 4 - Execute o script e acompanhe a saída no console
