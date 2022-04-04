@@ -1,0 +1,8 @@
+{
+  "mysql": {
+    "user": "usuario_mysql",
+    "password": "usuario_mysql_senha",
+    "host": "127.0.0.1",
+    "database": "roundcube_db"
+  }
+}
