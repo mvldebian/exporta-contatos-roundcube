@@ -29,4 +29,5 @@ pip3 install mysql-connector
 Para exportar também estes contatos coletados, basta mudar no script a linha abaixo:
 
 De: query = ("SELECT email, vcard, words, del FROM contacts WHERE user_id = %s")
+
 Para: query = ("SELECT email, vcard, words, del FROM collected_contacts WHERE user_id = %s")
